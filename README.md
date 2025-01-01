@@ -10,6 +10,9 @@ The HerGunEnUcuz Product Search Plugin enhances the default nopCommerce search c
 - **Localization Support**: Provides search results tailored to the user's locale.
 - **Configurable**: Allows easy configuration through the nopCommerce administration panel.
 
+## Live Demo
+For a live demonstration of the HerGunEnUcuz Product Search Plugin in action, visit https://www.hergunenucuz.com. Explore the enhanced search capabilities and see how they improve product discovery across various categories.
+
 ## Installation
 
 1. **Download the Plugin**: Clone this repository or download the latest release.
