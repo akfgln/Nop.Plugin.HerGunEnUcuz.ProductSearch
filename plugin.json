@@ -1,0 +1,11 @@
+﻿{
+  "Group": "HerGunEnUcuz",
+  "FriendlyName": "HerGunEnUcuz Plugin",
+  "SystemName": "HerGunEnUcuz.ProductSearch",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "HerGunEnUcuz",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.HerGunEnUcuz.ProductSearch.dll",
+  "Description": "HerGunEnUcuz Plugin"
+}
